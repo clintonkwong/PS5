@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p2y88vzBmdgWfvUQzjHuLFhA6GWMDAVe0fBI06YAazx1DH9eVn2W3f5Ru2B7efTSRU0UerDkeFC6rwRl7/wcMQ==",
+  "success": true,
+  "projectFilePath": "/Users/clintonkwong/Projects/PS8/Spreadsheet/EvaluatorTester/EvaluatorTester.csproj",
+  "expectedPackageFiles": [
+    "/Users/clintonkwong/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

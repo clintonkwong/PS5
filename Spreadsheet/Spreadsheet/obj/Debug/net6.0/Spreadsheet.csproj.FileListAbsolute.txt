@@ -1,0 +1,17 @@
+/Users/clintonkwong/Projects/spreadsheet-clintonkwong/Spreadsheet/Spreadsheet/obj/Debug/net6.0/Spreadsheet.csproj.AssemblyReference.cache
+/Users/clintonkwong/Projects/spreadsheet-clintonkwong/Spreadsheet/Spreadsheet/obj/Debug/net6.0/Spreadsheet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/clintonkwong/Projects/spreadsheet-clintonkwong/Spreadsheet/Spreadsheet/obj/Debug/net6.0/Spreadsheet.AssemblyInfoInputs.cache
+/Users/clintonkwong/Projects/spreadsheet-clintonkwong/Spreadsheet/Spreadsheet/obj/Debug/net6.0/Spreadsheet.AssemblyInfo.cs
+/Users/clintonkwong/Projects/spreadsheet-clintonkwong/Spreadsheet/Spreadsheet/obj/Debug/net6.0/Spreadsheet.csproj.CoreCompileInputs.cache
+/Users/clintonkwong/Projects/spreadsheet-clintonkwong/Spreadsheet/Spreadsheet/bin/Debug/net6.0/Spreadsheet.deps.json
+/Users/clintonkwong/Projects/spreadsheet-clintonkwong/Spreadsheet/Spreadsheet/bin/Debug/net6.0/Spreadsheet.dll
+/Users/clintonkwong/Projects/spreadsheet-clintonkwong/Spreadsheet/Spreadsheet/bin/Debug/net6.0/Spreadsheet.pdb
+/Users/clintonkwong/Projects/spreadsheet-clintonkwong/Spreadsheet/Spreadsheet/bin/Debug/net6.0/DependencyGraph.dll
+/Users/clintonkwong/Projects/spreadsheet-clintonkwong/Spreadsheet/Spreadsheet/bin/Debug/net6.0/Formula.dll
+/Users/clintonkwong/Projects/spreadsheet-clintonkwong/Spreadsheet/Spreadsheet/bin/Debug/net6.0/Formula.pdb
+/Users/clintonkwong/Projects/spreadsheet-clintonkwong/Spreadsheet/Spreadsheet/bin/Debug/net6.0/DependencyGraph.pdb
+/Users/clintonkwong/Projects/spreadsheet-clintonkwong/Spreadsheet/Spreadsheet/obj/Debug/net6.0/Spreadsheet.csproj.CopyComplete
+/Users/clintonkwong/Projects/spreadsheet-clintonkwong/Spreadsheet/Spreadsheet/obj/Debug/net6.0/Spreadsheet.dll
+/Users/clintonkwong/Projects/spreadsheet-clintonkwong/Spreadsheet/Spreadsheet/obj/Debug/net6.0/refint/Spreadsheet.dll
+/Users/clintonkwong/Projects/spreadsheet-clintonkwong/Spreadsheet/Spreadsheet/obj/Debug/net6.0/Spreadsheet.pdb
+/Users/clintonkwong/Projects/spreadsheet-clintonkwong/Spreadsheet/Spreadsheet/obj/Debug/net6.0/ref/Spreadsheet.dll

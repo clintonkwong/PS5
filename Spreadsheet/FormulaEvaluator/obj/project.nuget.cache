@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cIsyvP6gFvhiqftBApN3gTjgG4LwXG/o+8vBX+VClHyGaYLiyCA9dsUvSxzE4KDEZy/55IbdqFkLyce4gCQ8mA==",
+  "success": true,
+  "projectFilePath": "/Users/clintonkwong/Projects/PS8/Spreadsheet/FormulaEvaluator/FormulaEvaluator.csproj",
+  "expectedPackageFiles": [
+    "/Users/clintonkwong/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

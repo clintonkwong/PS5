@@ -1,0 +1,12 @@
+/Users/clintonkwong/Projects/spreadsheet-clintonkwong/Spreadsheet/Formula/bin/Debug/net6.0/Formula.deps.json
+/Users/clintonkwong/Projects/spreadsheet-clintonkwong/Spreadsheet/Formula/bin/Debug/net6.0/Formula.dll
+/Users/clintonkwong/Projects/spreadsheet-clintonkwong/Spreadsheet/Formula/bin/Debug/net6.0/Formula.pdb
+/Users/clintonkwong/Projects/spreadsheet-clintonkwong/Spreadsheet/Formula/obj/Debug/net6.0/Formula.csproj.AssemblyReference.cache
+/Users/clintonkwong/Projects/spreadsheet-clintonkwong/Spreadsheet/Formula/obj/Debug/net6.0/Formula.GeneratedMSBuildEditorConfig.editorconfig
+/Users/clintonkwong/Projects/spreadsheet-clintonkwong/Spreadsheet/Formula/obj/Debug/net6.0/Formula.AssemblyInfoInputs.cache
+/Users/clintonkwong/Projects/spreadsheet-clintonkwong/Spreadsheet/Formula/obj/Debug/net6.0/Formula.AssemblyInfo.cs
+/Users/clintonkwong/Projects/spreadsheet-clintonkwong/Spreadsheet/Formula/obj/Debug/net6.0/Formula.csproj.CoreCompileInputs.cache
+/Users/clintonkwong/Projects/spreadsheet-clintonkwong/Spreadsheet/Formula/obj/Debug/net6.0/Formula.dll
+/Users/clintonkwong/Projects/spreadsheet-clintonkwong/Spreadsheet/Formula/obj/Debug/net6.0/refint/Formula.dll
+/Users/clintonkwong/Projects/spreadsheet-clintonkwong/Spreadsheet/Formula/obj/Debug/net6.0/Formula.pdb
+/Users/clintonkwong/Projects/spreadsheet-clintonkwong/Spreadsheet/Formula/obj/Debug/net6.0/ref/Formula.dll

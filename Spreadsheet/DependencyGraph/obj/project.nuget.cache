@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5gB8KraJetQmNwnjNje3JSZKVnQ39ZOvWp2LtmpKGsah2L69vKiWs5KZxkPIJaa7LCQI5EXba6S7Ed6U8RGUZQ==",
+  "success": true,
+  "projectFilePath": "/Users/clintonkwong/Projects/PS8/Spreadsheet/DependencyGraph/DependencyGraph.csproj",
+  "expectedPackageFiles": [
+    "/Users/clintonkwong/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+/Users/clintonkwong/Projects/spreadsheet-clintonkwong/Spreadsheet/DependencyGraph/bin/Debug/net6.0/DependencyGraph.deps.json
+/Users/clintonkwong/Projects/spreadsheet-clintonkwong/Spreadsheet/DependencyGraph/bin/Debug/net6.0/DependencyGraph.dll
+/Users/clintonkwong/Projects/spreadsheet-clintonkwong/Spreadsheet/DependencyGraph/bin/Debug/net6.0/DependencyGraph.pdb
+/Users/clintonkwong/Projects/spreadsheet-clintonkwong/Spreadsheet/DependencyGraph/obj/Debug/net6.0/DependencyGraph.csproj.AssemblyReference.cache
+/Users/clintonkwong/Projects/spreadsheet-clintonkwong/Spreadsheet/DependencyGraph/obj/Debug/net6.0/DependencyGraph.GeneratedMSBuildEditorConfig.editorconfig
+/Users/clintonkwong/Projects/spreadsheet-clintonkwong/Spreadsheet/DependencyGraph/obj/Debug/net6.0/DependencyGraph.AssemblyInfoInputs.cache
+/Users/clintonkwong/Projects/spreadsheet-clintonkwong/Spreadsheet/DependencyGraph/obj/Debug/net6.0/DependencyGraph.AssemblyInfo.cs
+/Users/clintonkwong/Projects/spreadsheet-clintonkwong/Spreadsheet/DependencyGraph/obj/Debug/net6.0/DependencyGraph.csproj.CoreCompileInputs.cache
+/Users/clintonkwong/Projects/spreadsheet-clintonkwong/Spreadsheet/DependencyGraph/obj/Debug/net6.0/DependencyGraph.dll
+/Users/clintonkwong/Projects/spreadsheet-clintonkwong/Spreadsheet/DependencyGraph/obj/Debug/net6.0/refint/DependencyGraph.dll
+/Users/clintonkwong/Projects/spreadsheet-clintonkwong/Spreadsheet/DependencyGraph/obj/Debug/net6.0/DependencyGraph.pdb
+/Users/clintonkwong/Projects/spreadsheet-clintonkwong/Spreadsheet/DependencyGraph/obj/Debug/net6.0/ref/DependencyGraph.dll

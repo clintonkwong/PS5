@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eSqGGKdpafwn6vvJ+ioAcvTmvxhFZPQ5JaVRTR+fQ2X5r5xqdid7A1LjKscUaFQt4ZZVSVq0OSvKW9BxxEWDyQ==",
+  "success": true,
+  "projectFilePath": "/Users/clintonkwong/Projects/PS8/Spreadsheet/Spreadsheet/Spreadsheet.csproj",
+  "expectedPackageFiles": [
+    "/Users/clintonkwong/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
